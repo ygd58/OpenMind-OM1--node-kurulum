@@ -184,11 +184,4 @@ Bu sadece bir kurulum değil — **OM1’in uyanışı**.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/openmind/OM1/assets/logo.png" width="120" alt="OM1 Logo"/>
-</p>
 
-<p align="center">
-  <b>Made with 🧠 by OpenMind Network</b>
-</p>
-```
